@@ -27,4 +27,7 @@ class TodoFruta(Spider):
             item['Fuente'] = "www.todofruta.cl"
 
             yield item
+'''
+Eliminacion de atributos
+'''
 
